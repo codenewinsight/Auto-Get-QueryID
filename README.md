@@ -9,3 +9,5 @@
 - Auto Rename Telegram Acoount
 
 - ......
+
+JOIN TELEGRAM >> [Script Sharing](https://t.me/scriptsharing)
